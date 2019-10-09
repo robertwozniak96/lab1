@@ -1,0 +1,9 @@
+h1 {background-color: #bde9ba;}
+p {margin:10px;}
+img {
+  border-radius: 50%;
+}
+table, th, td {
+  border: 1px solid black;
+  background-color: #bde9ba;
+}
