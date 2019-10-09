@@ -1,5 +1,7 @@
 h1 {background-color: #bde9ba;}
-p {margin:10px;}
+p {margin:10px;
+  border-style: dashed;
+}
 img {
   border-radius: 50%;
 }
@@ -7,3 +9,4 @@ table, th, td {
   border: 1px solid black;
   background-color: #bde9ba;
 }
+ul::hover {background-color: red;}
