@@ -9,4 +9,4 @@ table, th, td {
   border: 1px solid black;
   background-color: #bde9ba;
 }
-ul:hover {background-color: red;}
+li:hover {background-color: red;}
