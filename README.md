@@ -1,3 +1,2 @@
-# lab1
 
-zmianaa
+zmiana
